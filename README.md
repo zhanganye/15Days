@@ -1,12 +1,6 @@
 代码说明文档
-1）	yolo-object-detection 
-    使用yolo，识别并标明20种东西
-    https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
-
-2）	keras-learing-rates
-    keras学习
-    https://www.pyimagesearch.com/2019/07/22/keras-learning-rate-schedules-and-decay/?__s=p1eybifu8kenmi5fozfn
-    
+15 days deep learning  for computer version
+  
 Day 1）	deep-learning-face-detection
     识别出人脸的位置
     https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/#post_downloads
@@ -22,3 +16,11 @@ Day 3) doucumenr-scanner
     扫描文件
     https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
   
+  
+备注：
+1）Python, argparse, and command line arguments
+    https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/
+
+
+
+
