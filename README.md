@@ -18,3 +18,7 @@ Day 2）opencv-tutorial
     opencv基础学习教程
     https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
  
+Day 3) doucumenr-scanner
+    扫描文件
+    https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+  
