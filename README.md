@@ -15,11 +15,21 @@ Day 2）opencv-tutorial
 Day 3) doucumenr-scanner
     扫描文件
     https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
-  
+ 
+Day 4)
+    https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/
+ 
+Day 5)
+ https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/#
+ 
   
 备注：
 1）Python, argparse, and command line arguments
     https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/
+2) install pyimagesearch
+    https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
+    
+    
 
 
 
