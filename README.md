@@ -26,8 +26,15 @@ Day 6)measure-size
     Measuring size of objects in an image with OpenCV
     https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
     
-Day 7)
+Day 7)Facial landmarks with dlib, OpenCV, and Python
+   https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+   
+Day 8)Eye blink detection with OpenCV, Python, and dlib
+    https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
     
+Day 9)
+    
+     
     
   
 备注：

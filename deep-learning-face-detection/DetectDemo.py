@@ -37,6 +37,7 @@ def getData():
         if confidence > args["confidence"]:
             # compute the (x, y)-coordinates of the bounding box for the
             # object
+            print(detections[0, 0, i, 0:7])
             box = detections[0, 0, i, 3:7] * np.array([w, h, w, h])
             (startX, startY, endX, endY) = box.astype("int")
 
