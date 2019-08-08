@@ -35,7 +35,10 @@ Day 8)Eye blink detection with OpenCV, Python, and dlib
 Day 9)Drowsiness detection with OpenCV
     https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
      
-    
+Day 12)A simple neural network with Python and Keras
+    https://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/
+    pi-home-surveillance
+Day 13） = 5）有下载文件  deep-learning-opencv
   
 备注：
 1）Python, argparse, and command line arguments
