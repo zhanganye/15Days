@@ -39,6 +39,11 @@ Day 12)A simple neural network with Python and Keras
     https://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/
     pi-home-surveillance
 Day 13） = 5）有下载文件  deep-learning-opencv
+
+Day 14)How to create a deep learning dataset using Google Images
+    https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/?__s=p1eybifu8kenmi5fozfn
+    
+    
   
 备注：
 1）Python, argparse, and command line arguments
