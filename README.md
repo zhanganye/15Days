@@ -42,8 +42,11 @@ Day 13） = 5）有下载文件  deep-learning-opencv
 
 Day 14)How to create a deep learning dataset using Google Images
     https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/?__s=p1eybifu8kenmi5fozfn
-    
-    
+    下载文件：google-images-deep-learning
+  
+Day 15)Keras and Convolutional Neural Networks (CNNs)
+    https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
+      
   
 备注：
 1）Python, argparse, and command line arguments
